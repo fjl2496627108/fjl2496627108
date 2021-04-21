@@ -2,14 +2,14 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true&hide_title=true" />
 
-I'm Joe, a office worker from HangZhou, China.
+I'm Joe, a office worker from HangZhou, China. I ❤️ code
 
--   :hammer_and_pick: PHP/CSS/HTML/JavaScript/Vue/Typescript/React
+-   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP
 -   :package: Building 
--   :pencil2: VS Code / 
--   :seedling: Preparing for master's degree
+-   :pencil2: VS Code / Notepad++ / Navicat
+-   :seedling: Prepare to study advanced web front end development
 -   :man: Pronouns: he/him
--   :thinking: Wondering why my README has more [forks] than [stars]
+-   :thinking: Constantly make yourself better
 
 
 #### :bar_chart: Weekly development breakdown
