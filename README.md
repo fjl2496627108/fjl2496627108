@@ -1,13 +1,12 @@
-## Hey, HaoOuBa here! :wave: 
+## Hey, Look here! :wave: 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true&hide_title=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true&hide_title=true" />
 
+I'm Joe, a office worker from HangZhou, China.
 
-I'm HaoOuBa, a student from HangZhou, China.
-
--   :hammer_and_pick: C++/Qt/GitHub Actions, Python/JavaScript ,Golang
+-   :hammer_and_pick: PHP/CSS/HTML/JavaScript/Vue/Typescript/React
 -   :package: Building 
--   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code / jet brains
+-   :pencil2: VS Code / 
 -   :seedling: Preparing for master's degree
 -   :man: Pronouns: he/him
 -   :thinking: Wondering why my README has more [forks] than [stars]
