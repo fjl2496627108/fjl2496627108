@@ -16,10 +16,10 @@ I'm Joe, a office worker from HangZhou, China. I ❤️ code
 
 <!--START_SECTION:waka-->
 ```text
-HTML       2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.76 % 
-C++        2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
+React       2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.76 % 
+Vue        2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
 Markdown   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TOML       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Bash       26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Javascript       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+css       26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 <!--END_SECTION:waka-->
