@@ -1,8 +1,9 @@
-## Hey, gogobody here! :wave: 
+## Hey, HaoOuBa here! :wave: 
 
-<img align="right" alt="Joe's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-I'm G**o** G**o**bo**dy**, a student from Chongqing, China.
+
+I'm HaoOuBa, a student from HangZhou, China.
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, Python/JavaScript ,Golang
 -   :package: Building 
