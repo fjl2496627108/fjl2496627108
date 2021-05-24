@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true&hide_title=true" />
 
-I'm Joe, a office worker from HangZhou, China. I ❤️ code
+I'm 锦龙, a office worker from HangZhou, China. I ❤️ code
 
 -   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP
 -   :package: Building 
