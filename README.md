@@ -1,6 +1,7 @@
 ## Hey, Look here! :wave: 
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=HaoOuBa&show_icons=true&hide_title=true" />
+stats](https://github-readme-stats.vercel.app/api?username=fjl2496627108)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm 锦龙, a office worker from HangZhou, China. I ❤️ code
 
